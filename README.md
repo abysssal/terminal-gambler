@@ -2,7 +2,7 @@
 
 Terminal Gambler is a simulation designed to give you the best gambling experience you could get in your terminal. Using [the Rust programming language](https://www.rust-lang.org/), our gambling simulation is both blazingly fast, and amazingly effective at giving you and your children a gambling addiction.
 
-## What does it guarantees?
+## What does it guarantee?
 Absolutely fucking nothing
 
 ## What does it *potentially* offer?
