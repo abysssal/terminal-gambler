@@ -30,4 +30,4 @@ Simply download the most recent release of Terminal Gambler, extract the .zip, o
 ## How do I use it?
 If you're talking about after downloading it and you haven't opened it, please talk to your doctor about having dementia, I just fucking said it. If you're talking about it once you've ran the program, type `help` in the terminal.
 
-<small>Terminal Gambler is not responsible for any gambling addictions that may occur. It's not my fault you gambled here, don't blame me for any of your issues.</small>
+###### Terminal Gambler is not responsible for any gambling addictions that may occur. It's not my fault you gambled here, don't blame me for any of your issues.
