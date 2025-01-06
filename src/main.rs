@@ -68,7 +68,7 @@ fn main() {
             first_time = false;
         }
 
-        println!("\nInsert a command below");
+        println!("\nInsert a command below:");
 
         let mut input: String = String::new();
 
